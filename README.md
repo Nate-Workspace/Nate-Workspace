@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hey there! I'm Nathan Israel, a frontend-focused React.js & Next.js developer who loves building good looking, functional, and performant web apps.<br><br>🚀 Main Tech Stack: React, Next.js, TypeScript, Tailwind CSS, Prisma, PostgreSQL, MongoDB<br>🛠 Notable Projects: Bug tracker, chat app, movie recommendation system and more<br>🎓 Certified React Developer (Google Developers Club) | Former React Team Lead (Hackathon)<br>📌 Exploring: Framer Motion & optimizing UI/UX workflows<br><br>Always open to collaboration & new opportunities! Let's connect. 🚀
+👋 Hey there! I'm Nathan Israel, a frontend-focused React.js & Next.js developer who loves building good looking, functional, and performant web apps.<br><br>🚀 Main Tech Stack: React, Next.js, Prisma, PostgreSQL, and MongoDB<br>🛠 Notable Projects: Bug tracker, chat app, movie recommendation system and more<br>🎓 Certified React Developer (Google Developers Club) | Former React Team Lead (Hackathon)<br>📌 Exploring: Framer Motion & optimizing UI/UX workflows<br><br>Always open to collaboration & new opportunities! Let's connect. 🚀
 
 
 ## 🌐 Socials:
